@@ -1,4 +1,8 @@
-### Hi there 👋
+### Привет! 👋
+Я Чупраков Кирилл, Android разработчик.
+
+### Мои работы
+* Введение в Android. [Репозиторий с домашней работой по блоку](https://github.com/text-code/Introduction-to-android.git)
 
 <!--
 **text-code/text-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
