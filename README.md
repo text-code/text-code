@@ -2,6 +2,7 @@
 Я Чупраков Кирилл, Android разработчик.
 
 ### Мои работы
+* Дипломная работа по курсу Android. [Рецепты](https://github.com/text-code/Recipes.git)
 * Введение в Android. [Репозиторий с домашней работой по блоку](https://github.com/text-code/Introduction-to-android.git)
 
 <!--
