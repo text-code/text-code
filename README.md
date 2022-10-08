@@ -6,7 +6,7 @@
 * Введение в Android. [Репозиторий с домашней работой по блоку](https://github.com/text-code/Introduction-to-android.git)
 
 ### Обучение 
-* Нетология [Сертификат](https://github.com/text-code/text-code/files/9738385/certificate.pdf)
+* Нетология [Сертификат](https://github.com/text-code/certificate/blob/master/certificate.pdf)
 
 
 
