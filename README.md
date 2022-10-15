@@ -2,6 +2,9 @@
 Я Чупраков Кирилл, Android разработчик.
 
 ### Мои поделки
+* Приложение для просмотра расписания автобуса [Автобус №123](https://github.com/text-code/Bus.git)
+
+### Работы во время обучения
 * Дипломная работа по курсу Android. [Рецепты](https://github.com/text-code/Recipes.git)
 * Введение в Android. [Репозиторий с домашней работой по блоку](https://github.com/text-code/Introduction-to-android.git)
 
