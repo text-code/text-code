@@ -11,6 +11,8 @@
 ### Обучение 
 * Нетология [Сертификат](https://github.com/text-code/certificate/blob/master/certificate.pdf)
 
+### Дополнительно
+* [Дорожная карта](https://github.com/text-code/Roadmap.git)
 
 
 <!--
