@@ -2,6 +2,7 @@
 Я Чупраков Кирилл, начинающий Android разработчик.
 
 ### Мои поделки
+* Попробовал сделать боковое меню [Navigation Drawer](https://github.com/text-code/Navigation_drawer.git)
 * Приложение для просмотра расписания автобуса [Автобус №123](https://github.com/text-code/Bus.git)
 
 ### Работы во время обучения
