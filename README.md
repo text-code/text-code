@@ -10,6 +10,7 @@
 * Введение в Android. [Репозиторий с домашней работой по блоку](https://github.com/text-code/Introduction-to-android.git)
 
 ### Обучение 
+* Нетология [Диплом](https://github.com/text-code/Diploma.git)
 * Нетология [Сертификат](https://github.com/text-code/certificate/blob/master/certificate.pdf)
 
 ### Дополнительно
