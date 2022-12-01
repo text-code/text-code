@@ -2,9 +2,9 @@
 Я Чупраков Кирилл, начинающий Android разработчик.
 
 ### Мои поделки
-* Создание базы данных без использования библиотеки Room [SQLite](https://github.com/text-code/SQLite.git)
-* Боковое меню по [гайду](https://m2.material.io/components/navigation-drawer) сайта material.io [Navigation Drawer](https://github.com/text-code/Navigation_drawer.git)
-* Приложение для просмотра расписания автобуса [Автобус №123](https://github.com/text-code/Bus.git)
+* [Приложение: SQLite](https://github.com/text-code/SQLite.git) Создание блокнота без использования библиотек. Разбор устройства SQLite
+* [Приложение: Navigation Drawer](https://github.com/text-code/Navigation_drawer.git) Боковое меню по [гайду](https://m2.material.io/components/navigation-drawer) сайта material.io
+* [Приложение: Автобус №123](https://github.com/text-code/Bus.git) Удобное расписания автобуса
 
 ### Работы во время обучения
 * Дипломная работа по курсу Android. [Рецепты](https://github.com/text-code/Recipes.git)
