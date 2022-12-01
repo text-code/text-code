@@ -2,7 +2,8 @@
 Я Чупраков Кирилл, начинающий Android разработчик.
 
 ### Мои поделки
-* Попробовал сделать боковое меню [Navigation Drawer](https://github.com/text-code/Navigation_drawer.git)
+* Создание базы данных без использования библиотеки Room [SQLite](https://github.com/text-code/SQLite.git)
+* Боковое меню по [гайду](https://m2.material.io/components/navigation-drawer) сайта material.io [Navigation Drawer](https://github.com/text-code/Navigation_drawer.git)
 * Приложение для просмотра расписания автобуса [Автобус №123](https://github.com/text-code/Bus.git)
 
 ### Работы во время обучения
